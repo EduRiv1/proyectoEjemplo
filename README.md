@@ -1,6 +1,2 @@
 # proyectoEjemplo
-Mi primer repositorio de Github
-
-Eduardo Rivera
-
-No se actualiza esta shit
+ Vamos a poner a prueba el merge
