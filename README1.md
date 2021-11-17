@@ -1,6 +1,9 @@
 # proyectoEjemplo
-Mi primer repositorio de Github
 
-Eduardo Rivera
 
-No se actualiza esta shit
+Tengo que hacer la tarea de curso
+Probando escribir en otra rama
+Debo estudiar Java para el examen.
+
+El 30 salgo de vacaciones.
+
